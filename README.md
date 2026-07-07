@@ -1,3 +1,3 @@
-# Temporary Android build workspace
+# Workspace
 
-Used to build the Denial Fix Calculator Android APK.
+Private development files are not stored on this public branch.
